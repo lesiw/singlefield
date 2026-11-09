@@ -1,3 +1,6 @@
+> [!NOTE]
+> This repository has moved to [lesiw.io/tools/analyzers/singlefield](https://github.com/lesiw/tools/tree/main/analyzers/singlefield).
+
 # lesiw.io/singlefield
 
 [![Go Reference](https://pkg.go.dev/badge/lesiw.io/singlefield.svg)](https://pkg.go.dev/lesiw.io/singlefield)
